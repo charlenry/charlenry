@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @charlenry
 - 👀 I’m interested in Front-End development.
-- 🌱 I’m currently learning Sass, ECMAScript 6 to 9, JQuery, BootStrap, React.
-- 💞️ I’m looking to collaborate on Sass, ES6/ES9, JQuery, BootStrap, React, Redux, Accessibility.
+- 🌱 I’m currently learning Sass, ECMAScript 6 to 9, JQuery, BootStrap, React, Accessibility.
+- 💞️ I’m looking to collaborate on Sass, ES6/ES9, JQuery, BootStrap, React, Redux.
 - 📫 How to reach me ...
 
 <!---
