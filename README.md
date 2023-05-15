@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-End development.
 - 🌱 I have skills in HTML5, CSS3, Sass, JavaScript, ECMAScript 6 to 9, JQuery, BootStrap, create & use an API server, Twig, Swagger, React, Redux, Recharts, POO, Design patterns, Accessibility, Testing, Debugging, Lighthouse audit, Use Case Diagram, Agile/Scrum, Figma (Mockup & Prototype creation), Trello, Kanboard, put a module/package on NPM, FileZilla, cPanel and other interesting things.
 - 🌱 I have also knowledge in PHP, Core Python, Ruby, Java, C#, SQL. Here is my SoloLearn profile : https://www.sololearn.com/profile/659334 .
-- 💞️ I’m looking to collaborate on Node.js, React, Redux, API (with Node.js backend).
+- 💞️ I’m looking to collaborate on Front-End with Node.js, React, Redux, API (with Node.js backend).
 - 📫 How to reach me : see on the left side.
 
 <!---
