@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Charles-Henri
 - 👀 I’m interested in AI, Data Science / Machine Learning and Web Development.
-- 🌱 I have skills in Jupyter Notebook, Python, NumPy, SciPy, Statistics, Pandas, SkLearn, Matplotlib, Seaborn, Plotly, AWS SageMaker Canvas, Java, Spring Boot 3, HTML5, CSS3, Sass, JavaScript, TypeScript, POO, JQuery, BootStrap, Create & use an API server, Swagger, Angular, React, Redux, Math.js, Recharts, Next.js, Git/Github, Accessibility, Testing, Debugging, Agile/Scrum, Figma (Mockup & Prototype creation), Trello, Kanboard, FileZilla, cPanel, Lauyan TOWeb and other interesting things.
+- 🌱 I have skills in Jupyter Notebook, Python, NumPy, SciPy, Statistics, Pandas, SkLearn, Matplotlib, Seaborn, Plotly, AWS SageMaker Canvas, Java, Spring Boot 3, HTML, CSS, Sass, JavaScript, TypeScript, POO, JQuery, BootStrap, Create & use an API server, Swagger, Angular, React, Redux, Math.js, Recharts, Next.js, Git/Github, Accessibility, Testing, Debugging, Agile/Scrum, Figma (Mockup & Prototype creation), Trello, Kanboard, FileZilla, cPanel, Lauyan TOWeb and other interesting things.
 - 🌱 I have also knowledge in TensorFlow, PyTorch, SQL, MySQL, PostgreSQL, MongoDB, BigQuery.
 - 📫 How to reach me : on [LinkedIn](https://www.linkedin.com/in/charles-henri-saint-mars)
 
